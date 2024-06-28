@@ -5,8 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: webpage_CV.pdf
-description: 
-
+description:
 ---
 
 <div style="width: 100%; height:800">

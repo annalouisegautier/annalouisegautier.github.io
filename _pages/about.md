@@ -26,4 +26,3 @@ My research interests center around planning and decision making in multi-agent 
 I received my PhD from the University of Oxford in 2023. My thesis was entitled "Resource Allocation for Constrained Multi-Agent Systems" and was supervised by [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) and [Micheal Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/). Prior to that, I received my MSc in Applied Mathematics from the London School of Economics. I recieved my BA in Mathematics and my BS in Computer Science from Washington University in St. Louis.
 
 <i>I am currently advertising some Master's thesis projects at the Division of Robotics, Perception, and Learning. Send me an email for more information.</i>
-

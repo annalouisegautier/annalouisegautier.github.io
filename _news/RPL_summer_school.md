@@ -7,8 +7,7 @@ inline: false
 related_posts: false
 ---
 
-This week we hosted 83 PhD students and postdocs from 36 universities at the  <a href="https://summer-school.rpl.eecs.kth.se/"> RPL Summer School</a>. We spent one week at the gorgeous <a href = "https://www.happytammsvik.se/"> Happy Tammsvik resort </a> listening to 9 amazing keynote speakers while brainstorming ideas for future collaborations. Thanks to all who participated! 
-
+This week we hosted 83 PhD students and postdocs from 36 universities at the <a href="https://summer-school.rpl.eecs.kth.se/"> RPL Summer School</a>. We spent one week at the gorgeous <a href = "https://www.happytammsvik.se/"> Happy Tammsvik resort </a> listening to 9 amazing keynote speakers while brainstorming ideas for future collaborations. Thanks to all who participated!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
