@@ -4,8 +4,13 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+cv_pdf: webpage_CV.pdf
+description: 
+
 ---
+
+<div style="width: 100%; height:800">
+<iframe src="/assets/pdf/webpage_CV.pdf" width="100%" height="800">
+ Please click on the icon on the top right to download my CV if it does not display below.
+</iframe>
+</div>
