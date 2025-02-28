@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kth.se/en'>KTH Royal Institute of Technology</a>. Postdoctoral Fellow.
+subtitle: <a href='https://www.chalmers.se/en/'>Chalmers Univeristy of Technology</a>. Assistant Professor.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Div. of Robotics, Perception and Learning</p>
-    <p>Department of Intelligent Systems</p>
-    <p> KTH Royal Institute of Technology </p>
-    <p> Stockholm, Sweden </p>
+    <p>Div. of Data Science and AI</p>
+    <p>Department of Computer Science</p>
+    <p> Chalmers University of Technology </p>
+    <p> Gothenburg, Sweden </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
