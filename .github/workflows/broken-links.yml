@@ -56,4 +56,4 @@ jobs:
           # with a fake 404 (verified working with a browser user-agent)
           # --base needs an absolute path; the version of lychee pinned by this action
           # predates --root-dir, which is the newer/non-deprecated equivalent flag
-          args: --base ${{ github.workspace }} --user-agent 'curl/7.54' --exclude 'cyprusconferences\.org' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _pages/about.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --base ${{ github.workspace }} --user-agent 'curl/7.54' --exclude 'cyprusconferences\.org' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/about.md --verbose --no-progress './**/*.md' './**/*.html'
