@@ -46,6 +46,12 @@ layout: default
       {% include optima_members.liquid %}
     {% endif %}
 
+    <!-- OPTIMA affiliated members -->
+    {% if page.affiliates %}
+      <h2>OPTIMA affiliated members</h2>
+      {% include optima_affiliates.liquid %}
+    {% endif %}
+
     <!-- Projects -->
     {% if page.optima_projects %}
       <h2>current projects</h2>
