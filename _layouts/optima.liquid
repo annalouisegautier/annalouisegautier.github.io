@@ -14,6 +14,17 @@ layout: default
     </p>
   </header>
 
+  {% if page.banner and page.banner.image %}
+    <div class="optima-banner mb-4">
+      {% assign banner_path = page.banner.image | prepend: 'assets/img/' %}
+      {% capture banner_sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 }}px, 95vw{% endcapture %}
+      {%
+        include figure.liquid loading="eager" path=banner_path class="img-fluid rounded z-depth-1" sizes=banner_sizes alt=page.banner.alt
+        cache_bust=true
+      %}
+    </div>
+  {% endif %}
+
   <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">

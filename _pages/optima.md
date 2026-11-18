@@ -6,6 +6,10 @@ subtitle: Optimizing multiple agents.
 nav: true
 nav_order: 3
 
+banner: # full-width photo shown between the page title and the intro text
+  image: optima-workshop-2026-no-background.png # relative to assets/img/
+  alt: OPTIMA lab group photo, 2026
+
 members: true # includes a grid of lab members
 affiliates: true # includes a grid of lab members
 optima_projects: true # includes a grid of project tiles
